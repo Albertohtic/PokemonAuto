@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.085 s <<< FAILURE! - in runners.TestRunner
+runners.TestRunner.initializationError  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoSuchMethodError: io.cucumber.gherkin.GherkinParser.parse(Ljava/lang/String;Ljava/io/InputStream;)Ljava/util/stream/Stream;
+
